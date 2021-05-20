@@ -9,7 +9,7 @@ const writeFile = fileContent => {
       }
 
       resolve({
-        ok:true,
+        ok: true,
         message: 'File created!'
       });
     });
