@@ -16,50 +16,37 @@ function generateMarkdown(data) {
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  
+  * [License](#license)
 
   ## Installation
   ${data.installation}
 
-
   ## Usage
   ${data.usage}
-
-  ![alt text](assets/images/filename)
-
-  ## Credits
-  ${data.credits}
-
 
   ## Contributing
   ${data.contributing}
 
-
   ## Tests
   ${data.tests}
 
+  ## Credits
+  ${data.credits}
 
   ## Questions
   If you have any questions, you can find my GitHub page [here](https://github.com/${data.github}). You may also reach me by [email](mailto:${data.email}) with additional questions.
   
+
+  ## License
+  [${license[data.license][1]}](${license[data.license][3]})
+
+  ## Live Application Snapshot
+  ![alt text](../Develop/assets/images/${data.screenshot} 'Live Application Screenshot')
 `;
 }
 
 module.exports = generateMarkdown;
 
-
-// // TODO: Create a function that returns a license badge based on which license is passed in
-// // If there is no license, return an empty string
-// function renderLicenseBadge(license) {}
-
-// // TODO: Create a function that returns the license link
-// // If there is no license, return an empty string
-// function renderLicenseLink(license) {}
-
-// // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
-// function renderLicenseSection(license) {}
