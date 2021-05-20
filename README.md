@@ -1,7 +1,8 @@
 
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
-  # Campbell's Readme Geneartor
+  # Campbell's Readme Generator
+
 
   ## Description
   This project uses node.js
