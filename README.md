@@ -39,4 +39,6 @@
   This application is covered under the following license: [The Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
 
   ## Live Application Snapshot
+  [Video of the Application's Functionality](https://drive.google.com/file/d/1qBbf_DwDYgm0Doe8x7s6lriqu0TdkeoE/view)
+  
   ![alt text](./Develop/assets/images/sample-readme.JPG 'Live Application Screenshot')

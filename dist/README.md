@@ -4,7 +4,7 @@
   # Campbell's Render Readme Application
 
   ## Description
-  This project prompts users for information and generates a formatted readme document based on the responses. The application uses javascript, node.js and the inquirer package to log answers and pass them to the readme generator.
+  This project prompts users for info and generates a formatted readme document based on the responses. The application uses javascript, node.js, and the inquirer package.
 
 
   ## Table of Contents
@@ -20,13 +20,13 @@
   Clone the github repo to your local machine. Run "npm i" to install relevant packages.
 
   ## Usage
-  Start up the application by navigating to the 'Develop' folder in your terminal and running either 'node index.js' or 'npm start'. When the questions are prompted please input the requisite information or type 'N/A' and press enter to continue.
+  Start up the application by navigating to the 'Develop' folder in your terminal and running either 'node index.js' or 'npm start'. Answer the questions and press enter to continue.
 
   ## Contributing
-  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
   ## Tests
-  Install jest using "npm i 'save-dev' jest", then in the package.json file change the 'test' object value to "jest" and run "npm test" to start the test
+  Install jest using "npm i 'save-dev' jest" and run "npm test" to start a test in the application
 
   ## Credits
   [Devin Pask](https://github.com/DevinPask),
