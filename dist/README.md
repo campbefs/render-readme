@@ -1,10 +1,10 @@
 
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
-  # Campbell's Render Readme Application
+  # Tech Haven
 
   ## Description
-  This project prompts users for info and generates a formatted readme document based on the responses. The application uses javascript, node.js, and the inquirer package.
+  Tech Haven is a blog site that allows users to create posts, make comments on other posts and manage their own posts. It contains authentication meaning users must sign up with a username and password, and then must login to the site to use its functionality.
 
 
   ## Table of Contents
@@ -17,20 +17,19 @@
   * [License](#license)
 
   ## Installation
-  Clone the github repo to your local machine. Run "npm i" to install relevant packages.
+  The site is live on heroku. But you can clone the repo using git clone, install packages using npm i, and run it on your local machine  by typing "npm start"
 
   ## Usage
-  Start up the application by navigating to the 'Develop' folder in your terminal and running either 'node index.js' or 'npm start'. Answer the questions and press enter to continue.
+  Navigate the site by logging and checking out the home page where all users' posts are displayed. You can click into a post to make a comment. Once you've made a comment you'll be able to see other user comments as well. You can go to your dashboard to check out your own posts and edit/delete them as well. Once done, remember to logout!
 
   ## Contributing
-  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+  Open an issue and reach out to me to discuss project improvements
 
   ## Tests
-  Install jest using "npm i 'save-dev' jest" and run "npm test" to start a test in the application
+  there is no testing for this app ATM
 
   ## Credits
-  [Devin Pask](https://github.com/DevinPask),
-  [Nestor Cortes](https://github.com/ncortes85)
+  undefined
 
   ## Questions
   If you have any questions, you can find my GitHub page [here](https://github.com/campbefs). You may also reach me by [email](mailto:campbefs@gmail.com) with additional questions.
@@ -39,4 +38,4 @@
   This application is covered under the following license: [The Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
 
   ## Live Application Snapshot
-  ![alt text](../Develop/assets/images/sample-readme.JPG 'Live Application Screenshot')
+  ![alt text](../Develop/assets/images/tech-haven.JPG 'Live Application Screenshot')
