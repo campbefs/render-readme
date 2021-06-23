@@ -1,10 +1,10 @@
 
-  [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-  # Tech Haven
+  # Campbell Portfolio
 
   ## Description
-  Tech Haven is a blog site that allows users to create posts, make comments on other posts and manage their own posts. It contains authentication meaning users must sign up with a username and password, and then must login to the site to use its functionality.
+  This is a portfolio of my personal web projects using HTML/CSS/JavaScript, as well as a host of other tools and technologies
 
 
   ## Table of Contents
@@ -17,16 +17,16 @@
   * [License](#license)
 
   ## Installation
-  The site is live on heroku. But you can clone the repo using git clone, install packages using npm i, and run it on your local machine  by typing "npm start"
+  To run on personal system, git clone and "npm i" to install the packages. Run "npm start" to start the local server using React
 
   ## Usage
-  Navigate the site by logging and checking out the home page where all users' posts are displayed. You can click into a post to make a comment. Once you've made a comment you'll be able to see other user comments as well. You can go to your dashboard to check out your own posts and edit/delete them as well. Once done, remember to logout!
+  The portfolio is a great way to demonstrate my use of tools and technologies in action
 
   ## Contributing
-  Open an issue and reach out to me to discuss project improvements
+  No contributions as this is a personal portfolio
 
   ## Tests
-  there is no testing for this app ATM
+  No tests for this application currently
 
   ## Credits
   undefined
@@ -35,7 +35,7 @@
   If you have any questions, you can find my GitHub page [here](https://github.com/campbefs). You may also reach me by [email](mailto:campbefs@gmail.com) with additional questions.
 
   ## License
-  This application is covered under the following license: [The Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
+  This application is covered under the following license: [The Unlicense](http://unlicense.org/)
 
   ## Live Application Snapshot
-  ![alt text](../Develop/assets/images/tech-haven.JPG 'Live Application Screenshot')
+  ![alt text](../Develop/assets/images/screenshot.JPG 'Live Application Screenshot')
